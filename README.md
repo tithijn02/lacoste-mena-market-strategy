@@ -6,7 +6,7 @@ Expanding a global brand into a culturally complex region requires more than vis
 
 ## 🚨 The Problem
 
-Lacoste has strong global brand equity but struggles to translate it into deep consumer engagement in the MENA region. While awareness exists, localization efforts remain limited to top-of-funnel marketing, leading to weak emotional connection and low brand advocacy :contentReference[oaicite:0]{index=0}.
+Lacoste has strong global brand equity but struggles to translate it into deep consumer engagement in the MENA region. While awareness exists, localization efforts remain limited to top-of-funnel marketing, leading to weak emotional connection and low brand advocacy.
 
 At the same time, the region presents contrasting challenges:
 - high-growth, affluent markets in the Middle East  
@@ -39,7 +39,7 @@ The strategy enables Lacoste to unlock growth in MENA through:
 - improved market entry efficiency (Middle East → North Africa expansion)  
 - increased revenue through community-driven and digital channels  
 
-The Middle East is positioned as the short-term growth engine, with North Africa as a long-term scalable opportunity (page 5) :contentReference[oaicite:1]{index=1}.
+The Middle East is positioned as the short-term growth engine, with North Africa as a long-term scalable opportunity (page 5).
 
 ---
 
@@ -49,10 +49,10 @@ The analysis combined market research, consumer segmentation, and strategic fram
 
 Key insights included:
 
-- **Trend analysis:** Athleisure and “Old Money Aesthetic” are rapidly growing, driven by wellness culture and luxury lifestyle demand (page 3–4) :contentReference[oaicite:2]{index=2}  
-- **Customer segmentation:** Three core segments were identified, with sports enthusiasts emerging as the highest-value target (page 4) :contentReference[oaicite:3]{index=3}  
-- **SWOT analysis:** Strong global heritage but weak localization and limited regional presence (page 6) :contentReference[oaicite:4]{index=4}  
-- **Market strategy:** Prioritize Middle East (high spending power) before scaling to North Africa (price-sensitive but high potential) (page 5) :contentReference[oaicite:5]{index=5}  
+- **Trend analysis:** Athleisure and “Old Money Aesthetic” are rapidly growing, driven by wellness culture and luxury lifestyle demand (page 3–4).
+- **Customer segmentation:** Three core segments were identified, with sports enthusiasts emerging as the highest-value target (page 4).
+- **SWOT analysis:** Strong global heritage but weak localization and limited regional presence (page 6). 
+- **Market strategy:** Prioritize Middle East (high spending power) before scaling to North Africa (price-sensitive but high potential) (page 5).
 
 Strategic recommendations focused on:
 
